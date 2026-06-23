@@ -42,6 +42,10 @@ int main()
 
 	print(sortedList);
 
+	// wait for user input before closing
+	std::string holdWindow{};
+	std::cout << "\n\nPress any key (and then enter) to exit...\n";
+	std::cin >> holdWindow;
 	return(0);
 }
 
