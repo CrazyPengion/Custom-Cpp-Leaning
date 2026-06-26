@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../Cough Company/Cough Company.vcxproj" Id="5c1ff5a0-96ee-4d7f-ba1d-1dfca1848d9d" />
   <Project Path="Custom_Stuff.vcxproj" Id="357339f9-7dc6-46b6-861a-290dc3582487" />
 </Solution>
